@@ -7,13 +7,14 @@ Dogs mature at a faster rate than human beings. We often say a dog’s age can b
 ```
 ##  Kelvin.js
 ```
-This will convert temperature in kelvin to both degrees Celsius and degrees Fahrenheit.
+This function will convert temperature in kelvin to both degrees Celsius and degrees Fahrenheit.
 ```
 ## Meal.js
 ``` This function can generate a meal and a price for Today’s Special without any embarrassing errors!
 ```
 ## Paper.js
-```Rock paper scissors is a classic two-player game. Each player chooses either rock, paper, or scissors. The items are compared, and whichever player chooses the more powerful item wins.
+```
+Rock paper scissors is a classic two-player game. Each player chooses either rock, paper, or scissors. The items are compared, and whichever player chooses the more powerful item wins.
 
 The possible outcomes are:
 
@@ -50,7 +51,8 @@ Did you know that giraffes sleep 4.6 hours a dayLinks to an external site.? We h
 The program will determine the actual and ideal hours of sleep for each night of the last week.
 ```
 ## Team.js
-```This function creates, retrieves, and adds information about your favorite sports team. Basketball, soccer, tennis, or water polo, you pick it. 
+```
+This function creates, retrieves, and adds information about your favorite sports team. Basketball, soccer, tennis, or water polo, you pick it. 
 ```
 ##  Training .js
 ```
