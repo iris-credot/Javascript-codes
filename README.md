@@ -10,7 +10,8 @@ Dogs mature at a faster rate than human beings. We often say a dog’s age can b
 This function will convert temperature in kelvin to both degrees Celsius and degrees Fahrenheit.
 ```
 ## Meal.js
-``` This function can generate a meal and a price for Today’s Special without any embarrassing errors!
+```
+This function can generate a meal and a price for Today’s Special without any embarrassing errors!
 ```
 ## Paper.js
 ```
